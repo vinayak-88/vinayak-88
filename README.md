@@ -76,9 +76,6 @@ Building scalable backend systems while solving DSA and exploring open source.
 - Backend Development
 - Distributed Systems
 - Cloud Computing
-- Open Source
-- Linux
-- Photography
 - Competitive Programming
 
 ---
