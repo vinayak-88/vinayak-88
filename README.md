@@ -36,19 +36,19 @@ Building scalable backend systems while solving DSA and exploring open source.
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,firebase" />
 </p>
 
 ### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github" />
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,gcp" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,css" />
 </p>
 
 ### Tools
